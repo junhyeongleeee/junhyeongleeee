@@ -5,7 +5,7 @@
 
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
 
-<h3>BOJ</h3>
+<h3>:rainbow: BOJ</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djskal3745)](https://solved.ac/djskal3745/)
 
