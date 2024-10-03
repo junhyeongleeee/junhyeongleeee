@@ -22,13 +22,16 @@
 
 <h3>:iphone: Apps</h3>
 
-<img src ="https://github.com/user-attachments/assets/c6555b4a-2daa-4e5a-95f5-e8169c5e0183" width="20" height="20"> 무당벌레포커
-<img src ="https://github.com/user-attachments/assets/f36ce414-a371-4d57-b268-924ed2ca69d3" width="20" height="20"> 뮤지컬리언즈
-<img src ="https://github.com/user-attachments/assets/90dd1270-572f-40af-9621-cd226b96cb1f" width="20" height="20"> ShotTag
-<img src ="https://github.com/user-attachments/assets/1388fbba-a0d4-4610-b455-874e808d6254" width="20" height="20"> 제주메이트
+<a href="https://play.google.com/store/apps/details?id=com.jungeol.imgshare">
+  <img src ="https://github.com/user-attachments/assets/c6555b4a-2daa-4e5a-95f5-e8169c5e0183" width="20" height="20">
+</a>
+무당벌레포커
+<a href="https://play.google.com/store/apps/details?id=io.minerinc.musicalians"><img src ="https://github.com/user-attachments/assets/f36ce414-a371-4d57-b268-924ed2ca69d3" width="20" height="20"> </a> 뮤지컬리언즈
+<a href="https://play.google.com/store/apps/details?id=io.minerinc.shotag&pli=1"><img src ="https://github.com/user-attachments/assets/90dd1270-572f-40af-9621-cd226b96cb1f" width="20" height="20"> </a> ShotTag
+<a href="https://play.google.com/store/apps/details?id=com.indecode.jejumate"><img src ="https://github.com/user-attachments/assets/1388fbba-a0d4-4610-b455-874e808d6254" width="20" height="20"></a> 제주메이트
 </br>
-<img src ="https://github.com/user-attachments/assets/1b7d60b4-3c30-4199-be0a-19cfa0a73417" width="20" height="20"> 테니버스
-<img src ="https://github.com/user-attachments/assets/6231d2c9-cc2c-4b9c-992d-1277c80a398c" width="20" height="20"> DailyFilm
-<img src ="https://github.com/user-attachments/assets/cf5a9eb7-3f40-44d8-a41f-4de72ffe4045" width="20" height="20"> 입사미
+<a href="https://play.google.com/store/search?q=%ED%85%8C%EB%8B%88%EB%B2%84%EC%8A%A4&c=apps"><img src ="https://github.com/user-attachments/assets/1b7d60b4-3c30-4199-be0a-19cfa0a73417" width="20" height="20"> </a> 테니버스
+<a href="https://play.google.com/store/apps/details?id=com.boostcamp.dailyfilm&hl=ko"><img src ="https://github.com/user-attachments/assets/6231d2c9-cc2c-4b9c-992d-1277c80a398c" width="20" height="20"> </a> DailyFilm
+<a href="https://play.google.com/store/apps/details?id=com.jungeol.imgshare"><img src ="https://github.com/user-attachments/assets/cf5a9eb7-3f40-44d8-a41f-4de72ffe4045" width="20" height="20"> </a> 입사미
 
 </div>
