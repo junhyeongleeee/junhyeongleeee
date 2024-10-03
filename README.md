@@ -22,7 +22,7 @@
 
 <h3>:iphone: Apps</h3>
 
-<a href="https://play.google.com/store/apps/details?id=com.jungeol.imgshare">
+<a href="https://play.google.com/store/apps/details?id=com.indecoode.ladybug">
   <img src ="https://github.com/user-attachments/assets/c6555b4a-2daa-4e5a-95f5-e8169c5e0183" width="20" height="20">
 </a>
 무당벌레포커
