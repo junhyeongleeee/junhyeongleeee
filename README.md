@@ -1,12 +1,34 @@
 
 <div align=center> 
 
-<h3>Tech Stack</h3>
+<h3>:pushpin: Tech Stack</h3>
 
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
 
-<br></br>
-![junhyeongleeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeongleeee&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeongleeee&layout=compact)](https://github.com/junhyeongleeee/github-readme-stats)
+<h3>BOJ</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djskal3745)](https://solved.ac/djskal3745/)
+
+<h3>:office: Experience</h3>
+
+스타트업 MiNER Android 개발 (2023.09.04 ~ 2024.04.12)
+
+<h3>:pencil2: Education</h3>
+
+네이버 부스트 캠프 웹모바일 7기 AOS 멤버쉽 수료 (2022.07 ~ 2022.08)</br>
+네이버 부스트 캠프 웹모바일 7기 AOS 챌린지 수료 (2022.08 ~ 2022.12)</br>
+서경대학교 컴퓨터공학과 졸업 (2016.03 ~ 2022.08.10)</br>
+케이쉴드 주니어 6기 수료 (2021.03 ~ 2021.05)
+
+<h3>:iphone: Apps</h3>
+
+<img src ="https://github.com/user-attachments/assets/c6555b4a-2daa-4e5a-95f5-e8169c5e0183" width="20" height="20"> 무당벌레포커
+<img src ="https://github.com/user-attachments/assets/f36ce414-a371-4d57-b268-924ed2ca69d3" width="20" height="20"> 뮤지컬리언즈
+<img src ="https://github.com/user-attachments/assets/90dd1270-572f-40af-9621-cd226b96cb1f" width="20" height="20"> ShotTag
+<img src ="https://github.com/user-attachments/assets/1388fbba-a0d4-4610-b455-874e808d6254" width="20" height="20"> 제주메이트
+</br>
+<img src ="https://github.com/user-attachments/assets/1b7d60b4-3c30-4199-be0a-19cfa0a73417" width="20" height="20"> 테니버스
+<img src ="https://github.com/user-attachments/assets/6231d2c9-cc2c-4b9c-992d-1277c80a398c" width="20" height="20"> DailyFilm
+<img src ="https://github.com/user-attachments/assets/cf5a9eb7-3f40-44d8-a41f-4de72ffe4045" width="20" height="20"> 입사미
 
 </div>
