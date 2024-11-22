@@ -32,6 +32,6 @@
 </br>
 <a href="https://play.google.com/store/search?q=%ED%85%8C%EB%8B%88%EB%B2%84%EC%8A%A4&c=apps"><img src ="https://github.com/user-attachments/assets/1b7d60b4-3c30-4199-be0a-19cfa0a73417" width="20" height="20"> </a> 테니버스
 <a href="https://play.google.com/store/apps/details?id=com.boostcamp.dailyfilm&hl=ko"><img src ="https://github.com/user-attachments/assets/6231d2c9-cc2c-4b9c-992d-1277c80a398c" width="20" height="20"> </a> DailyFilm
-<a href="https://play.google.com/store/apps/details?id=com.jungeol.imgshare"><img src ="https://github.com/user-attachments/assets/cf5a9eb7-3f40-44d8-a41f-4de72ffe4045" width="20" height="20"> </a> 입사미
+<a href="https://play.google.com/store/search?q=%EC%9E%85%EC%82%AC%EB%AF%B8&c=apps"><img src ="https://github.com/user-attachments/assets/cf5a9eb7-3f40-44d8-a41f-4de72ffe4045" width="20" height="20"> </a> 입사미
 
 </div>
